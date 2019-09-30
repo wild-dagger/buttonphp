@@ -1,0 +1,6 @@
+base   buttonphp
+author Wild Dagger
+date   2019-09-30
+name   php Button Plugin
+desc   Adds toolbar button to add code tag for php, like <php>.  This is a copy of the Code Bash Button extension, just slightly modified.
+url    https://github.com/wild-dagger/buttonphp
